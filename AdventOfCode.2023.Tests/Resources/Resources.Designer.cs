@@ -209,5 +209,133 @@ namespace AdventOfCode._2023.Resources {
                 return ResourceManager.GetString("Day5_Example", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 676AA 840
+        ///5J666 204
+        ///J4563 922
+        ///7373J 199
+        ///64882 944
+        ///TK9KK 457
+        ///54JA5 787
+        ///T8889 294
+        ///96TTT 503
+        ///88T88 662
+        ///J333A 524
+        ///K8T82 994
+        ///23552 253
+        ///2T8JJ 588
+        ///26772 972
+        ///J6Q6T 777
+        ///36A2A 5
+        ///KKKK3 509
+        ///T2T2T 793
+        ///9T49T 326
+        ///66QAQ 442
+        ///2TJ87 572
+        ///QKJK4 824
+        ///5A755 107
+        ///3847K 556
+        ///K7682 855
+        ///AJAJ3 882
+        ///44499 830
+        ///4J4KK 110
+        ///5AA5A 489
+        ///J5578 497
+        ///A3583 992
+        ///9A58A 452
+        ///Q2366 703
+        ///AA22J 749
+        ///5J522 534
+        ///Q7JQ7 802
+        ///7757Q 43
+        ///27338 239
+        ///TTT24 485
+        ///6488K 495
+        ///22QJQ 936
+        ///9AAJQ 194
+        ///222J9 959
+        ///QJA4K 809
+        ///2QQTQ 59
+        ///9J22J 109        /// [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string Day7 {
+            get {
+                return ResourceManager.GetString("Day7", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to LRRRLRRLRRLRRLLLRRRLRRLLRRRLRLLLRRLRLRLRLRLRLRLRRRLLLRRLRRRLRLLRRRLRRRLRRRLLRRRLRLRRRLRRLRRRLLRLLRLLRRRLRRRLRRLRLRLLRLRRLRRRLRRRLRLRLRLRRLRLRLLLRRRLRLRLRRRLRRRLRRRLRLLLRRLRLRLRLRLLLRRRLRRLRRLRLRLRRRLRLRRRLRRRLRRRLRLRRRLLLRRLRRRLRRLLRLRRLRRLRRRLLLRRLRRLRRLRLRRRLLLRLRRRR
+        ///
+        ///PND = (LHJ, NLX)
+        ///KPD = (HMV, DLD)
+        ///GBD = (QFL, XNG)
+        ///QGL = (BPR, XTJ)
+        ///XTJ = (VCQ, TBJ)
+        ///BQT = (NXD, SCD)
+        ///QJK = (TKT, CTC)
+        ///MMP = (VMB, NGD)
+        ///DDN = (JRC, JRC)
+        ///CFM = (HCK, CCB)
+        ///FNX = (XHK, GCP)
+        ///JFP = (XMD, QTS)
+        ///LJL = (DCT, PGF)
+        ///TPH = [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string Day8 {
+            get {
+                return ResourceManager.GetString("Day8", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to RL
+        ///
+        ///AAA = (BBB, CCC)
+        ///BBB = (DDD, EEE)
+        ///CCC = (ZZZ, GGG)
+        ///DDD = (DDD, DDD)
+        ///EEE = (EEE, EEE)
+        ///GGG = (GGG, GGG)
+        ///ZZZ = (ZZZ, ZZZ).
+        /// </summary>
+        internal static string Day8_ExamplePart1 {
+            get {
+                return ResourceManager.GetString("Day8_ExamplePart1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to LR
+        ///
+        ///11A = (11B, XXX)
+        ///11B = (XXX, 11Z)
+        ///11Z = (11B, XXX)
+        ///22A = (22B, XXX)
+        ///22B = (22C, 22C)
+        ///22C = (22Z, 22Z)
+        ///22Z = (22B, 22B)
+        ///XXX = (XXX, XXX).
+        /// </summary>
+        internal static string Day8_ExamplePart2 {
+            get {
+                return ResourceManager.GetString("Day8_ExamplePart2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 23 45 81 131 195 273 365 471 591 725 873 1035 1211 1401 1605 1823 2055 2301 2561 2835 3123
+        ///10 9 7 18 72 228 601 1407 3030 6115 11691 21328 37332 62982 102813 162949 251490 378957 558799 807966 1147552
+        ///15 24 45 84 160 333 746 1690 3708 7756 15432 29276 53164 92931 157702 263310 441377 762715 1394801 2735901 5712640
+        ///9 23 37 51 65 79 93 107 121 135 149 163 177 191 205 219 233 247 261 275 289
+        ///-4 -3 1 6 15 44 130 350 877 2122 5057 11920 27747 63713 144400 323457 716912 1573135 3418095 7353718 15663901
+        ///11 11 [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string Day9 {
+            get {
+                return ResourceManager.GetString("Day9", resourceCulture);
+            }
+        }
     }
 }

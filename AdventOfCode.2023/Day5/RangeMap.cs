@@ -12,9 +12,9 @@
 			return value - FromStart + ToStart;
 		}
 
-		public List<Range> Transform(Range inputRange)
+		public List<Range> Map(Range inputRange)
 		{
-			if (inputRange.IsTransformed)
+			if (inputRange.Mapped)
 			{
 				return new List<Range> { inputRange };
 			}

@@ -57,12 +57,15 @@ namespace AdventOfCode._2023
 		{
 			string input = Resources.Resources.Day3;
 			Schematic schematic = SchematicParser.Parse(input);
+			int expectedDigits = input.Count(char.IsDigit);
 
-			List<NumberResult> result = schematic.GetAllNumbers().ToList();
+			int actualDigits = schematic.GetAllNumbers()
+				.Select(x => x.Number.ToString().Length)
+				.Sum();
 
 			using (new AssertionScope())
 			{
-				result.Should().HaveCount(1217);
+				actualDigits.Should().Be(expectedDigits);
 			}
 		}
 

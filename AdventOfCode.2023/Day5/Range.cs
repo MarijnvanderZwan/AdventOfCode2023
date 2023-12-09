@@ -1,6 +1,6 @@
 ﻿namespace AdventOfCode._2023.Day5
 {
-	public sealed record Range(long Start, long End, bool IsTransformed = false)
+	public sealed record Range(long Start, long End, bool Mapped = false)
 	{
 		public Range? GetIntersection(Range range)
 		{

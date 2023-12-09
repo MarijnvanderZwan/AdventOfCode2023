@@ -15,9 +15,9 @@
 		public List<Range> MapRanges(IEnumerable<Range> ranges)
 		{
 			List<Range> updatedRanges = ranges.ToList();
-			foreach (RangeMap mapx in Ranges)
+			foreach (RangeMap range in Ranges)
 			{
-				updatedRanges = updatedRanges.SelectMany(mapx.Transform).ToList();
+				updatedRanges = updatedRanges.SelectMany(range.Map).ToList();
 			}
 
 			return updatedRanges
