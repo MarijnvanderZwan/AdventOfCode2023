@@ -86,9 +86,9 @@ namespace AdventOfCode._2023.Resources {
         ///2sdzxhxp
         ///vzvkjvngfjsxmponep9jpp [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string Day1 {
+        internal static string Day01 {
             get {
-                return ResourceManager.GetString("Day1", resourceCulture);
+                return ResourceManager.GetString("Day01", resourceCulture);
             }
         }
         
@@ -100,9 +100,9 @@ namespace AdventOfCode._2023.Resources {
         ///Game 5: 8 blue, 1 red, 1 green; 1 blue, 1 red, 7 green; 7 green, 5 blue
         ///Game 6: 2 red, 8 blue; 5 blue, 4 gre [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string Day2 {
+        internal static string Day02 {
             get {
-                return ResourceManager.GetString("Day2", resourceCulture);
+                return ResourceManager.GetString("Day02", resourceCulture);
             }
         }
         
@@ -112,9 +112,9 @@ namespace AdventOfCode._2023.Resources {
         ///.........182..+.....873.756.......737........784..568....667..............258........./.........741...........707*....84........520.........
         ///..579...@.........$........*..........258.................*.........274..*.....739.... [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string Day3 {
+        internal static string Day03 {
             get {
-                return ResourceManager.GetString("Day3", resourceCulture);
+                return ResourceManager.GetString("Day03", resourceCulture);
             }
         }
         
@@ -130,9 +130,9 @@ namespace AdventOfCode._2023.Resources {
         ///...$.*....
         ///.664.598...
         /// </summary>
-        internal static string Day3_Example {
+        internal static string Day03_Example {
             get {
-                return ResourceManager.GetString("Day3_Example", resourceCulture);
+                return ResourceManager.GetString("Day03_Example", resourceCulture);
             }
         }
         
@@ -143,9 +143,9 @@ namespace AdventOfCode._2023.Resources {
         ///Card   4: 22 99 16 18 81  3 62 43  2 42 |  8 55 39 83 29 10 87 27 25 70 19 30 80 12  1 41 85 14 34 82 90 76  5 89 15
         ///Card   5: 23 45 94 25 59 75 22 97 62 57  [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string Day4 {
+        internal static string Day04 {
             get {
-                return ResourceManager.GetString("Day4", resourceCulture);
+                return ResourceManager.GetString("Day04", resourceCulture);
             }
         }
         
@@ -163,9 +163,9 @@ namespace AdventOfCode._2023.Resources {
         ///3555659576 2678166775 3396919
         ///968857148 438584018 1780307 [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string Day5 {
+        internal static string Day05 {
             get {
-                return ResourceManager.GetString("Day5", resourceCulture);
+                return ResourceManager.GetString("Day05", resourceCulture);
             }
         }
         
@@ -204,9 +204,9 @@ namespace AdventOfCode._2023.Resources {
         ///60 56 37
         ///56 93 4.
         /// </summary>
-        internal static string Day5_Example {
+        internal static string Day05_Example {
             get {
-                return ResourceManager.GetString("Day5_Example", resourceCulture);
+                return ResourceManager.GetString("Day05_Example", resourceCulture);
             }
         }
         
@@ -259,9 +259,9 @@ namespace AdventOfCode._2023.Resources {
         ///2QQTQ 59
         ///9J22J 109        /// [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string Day7 {
+        internal static string Day07 {
             get {
-                return ResourceManager.GetString("Day7", resourceCulture);
+                return ResourceManager.GetString("Day07", resourceCulture);
             }
         }
         
@@ -283,9 +283,9 @@ namespace AdventOfCode._2023.Resources {
         ///LJL = (DCT, PGF)
         ///TPH = [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string Day8 {
+        internal static string Day08 {
             get {
-                return ResourceManager.GetString("Day8", resourceCulture);
+                return ResourceManager.GetString("Day08", resourceCulture);
             }
         }
         
@@ -300,9 +300,9 @@ namespace AdventOfCode._2023.Resources {
         ///GGG = (GGG, GGG)
         ///ZZZ = (ZZZ, ZZZ).
         /// </summary>
-        internal static string Day8_ExamplePart1 {
+        internal static string Day08_ExamplePart1 {
             get {
-                return ResourceManager.GetString("Day8_ExamplePart1", resourceCulture);
+                return ResourceManager.GetString("Day08_ExamplePart1", resourceCulture);
             }
         }
         
@@ -318,9 +318,9 @@ namespace AdventOfCode._2023.Resources {
         ///22Z = (22B, 22B)
         ///XXX = (XXX, XXX).
         /// </summary>
-        internal static string Day8_ExamplePart2 {
+        internal static string Day08_ExamplePart2 {
             get {
-                return ResourceManager.GetString("Day8_ExamplePart2", resourceCulture);
+                return ResourceManager.GetString("Day08_ExamplePart2", resourceCulture);
             }
         }
         
@@ -332,9 +332,9 @@ namespace AdventOfCode._2023.Resources {
         ///-4 -3 1 6 15 44 130 350 877 2122 5057 11920 27747 63713 144400 323457 716912 1573135 3418095 7353718 15663901
         ///11 11 [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string Day9 {
+        internal static string Day09 {
             get {
-                return ResourceManager.GetString("Day9", resourceCulture);
+                return ResourceManager.GetString("Day09", resourceCulture);
             }
         }
     }
