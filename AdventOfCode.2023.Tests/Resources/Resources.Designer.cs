@@ -337,5 +337,108 @@ namespace AdventOfCode._2023.Resources {
                 return ResourceManager.GetString("Day09", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to |J.7F7-L--77F7-J-F-77FF-7FLLJ7F-J-F---7-J-L-FJ-FJFJ7-7-FF--L7.L--|.FJ-J77FFF|77-7F-7-FFL7-|7-F7-L7F7FF7.|----LL-77FF.F--F-J-LFFL-F-LF7--F-FL
+        ///L.---7FF--LJ7J7..L7LFJ.||FJL|LJ.|77.LJ|F|||7J|.|7|JJFF-L--F-|7..L.F-J7JLL--7|J|7.|L-7-7J|F-7-L|J|||-F7F-FJ|..|LFJLJ.-.|||JJ-LFL.||.L|L-JLJJ.
+        ///.|L|7|FJJ7L-7F777L|FLJ-FFL-FL-7FJ.|F-LLLJ||.L--77J7-FLJ.L-F-F-7.LFLJ-|L||..77.|F77-L7JL-7JFJ7|FF-L7-LL--|-L.|-7L-J|7..L7||.LFJ7L7JF7.7J7-7-|
+        ///LFF--7F|FJLLLJL|7J||.LF-JLL|J.|77F-J7.LJ-|--7F7|L7--|.L.7J||F7L7L7F|FF7-J|7||7F||J7-7. [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string Day10 {
+            get {
+                return ResourceManager.GetString("Day10", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to -L|F7
+        ///7S-7|
+        ///L|7||
+        ///-L-J|
+        ///L|-JF.
+        /// </summary>
+        internal static string Day10_Part1Example1 {
+            get {
+                return ResourceManager.GetString("Day10_Part1Example1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 7-F7-
+        ///.FJ|7
+        ///SJLL7
+        ///|F--J
+        ///LJ.LJ.
+        /// </summary>
+        internal static string Day10_Part1Example2 {
+            get {
+                return ResourceManager.GetString("Day10_Part1Example2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to ..........
+        ///.S------7.
+        ///.|F----7|.
+        ///.||....||.
+        ///.||....||.
+        ///.|L-7F-J|.
+        ///.|..||..|.
+        ///.L--JL--J.
+        ///...........
+        /// </summary>
+        internal static string Day10_Part2Example1 {
+            get {
+                return ResourceManager.GetString("Day10_Part2Example1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to FF7FSF7F7F7F7F7F---7
+        ///L|LJ||||||||||||F--J
+        ///FL-7LJLJ||||||LJL-77
+        ///F--JF--7||LJLJ7F7FJ-
+        ///L---JF-JLJ.||-FJLJJ7
+        ///|F|F-JF---7F7-L7L|7|
+        ///|FFJF7L7F-JF7|JL---7
+        ///7-L-JL7||F7|L7F-7F7|
+        ///L.L7LFJ|||||FJL7||LJ
+        ///L7JLJL-JLJLJL--JLJ.L.
+        /// </summary>
+        internal static string Day10_Part2Example2 {
+            get {
+                return ResourceManager.GetString("Day10_Part2Example2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to ...........#...............................................#...................#.....#.............#........................................
+        ///..................#..................................#..................#.....................#................#...................#.......#
+        ///....#........................................................................................................................#..............
+        ///..............................#........#.............................................. [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string Day11 {
+            get {
+                return ResourceManager.GetString("Day11", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to ...#......
+        ///.......#..
+        ///#.........
+        ///..........
+        ///......#...
+        ///.#........
+        ///.........#
+        ///..........
+        ///.......#..
+        ///#...#......
+        /// </summary>
+        internal static string Day11_Example {
+            get {
+                return ResourceManager.GetString("Day11_Example", resourceCulture);
+            }
+        }
     }
 }

@@ -1,4 +1,4 @@
-﻿using AdventOfCode._2023.Day5;
+﻿using AdventOfCode._2023.Day05;
 using FluentAssertions;
 using FluentAssertions.Execution;
 
