@@ -8,8 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Day03\" />
-    <Folder Include="Day10\" />
+    <Folder Include="Week1\Day03\" />
+    <Folder Include="Week2\Day10\" />
   </ItemGroup>
 
 </Project>
