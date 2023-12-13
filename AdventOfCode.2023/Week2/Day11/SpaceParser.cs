@@ -1,6 +1,4 @@
-﻿using AdventOfCode._2023.Day11;
-
-namespace AdventOfCode._2023
+﻿namespace AdventOfCode._2023.Week2.Day11
 {
 	public static class SpaceParser
 	{

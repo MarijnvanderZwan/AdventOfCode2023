@@ -1,4 +1,4 @@
-﻿using AdventOfCode._2023.Day13;
+﻿using AdventOfCode._2023.Week2.Day13;
 using FluentAssertions;
 
 namespace AdventOfCode._2023.Week2

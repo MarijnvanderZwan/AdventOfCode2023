@@ -1,6 +1,6 @@
 ﻿using System.Collections.Immutable;
 
-namespace AdventOfCode._2023.Day12
+namespace AdventOfCode._2023.Week2.Day12
 {
 	public record Condition(string Record, ImmutableStack<int> Values)
 	{

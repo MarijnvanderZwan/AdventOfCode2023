@@ -1,4 +1,4 @@
-﻿namespace AdventOfCode._2023.Day13
+﻿namespace AdventOfCode._2023.Week2.Day13
 {
 	public class Valley
 	{

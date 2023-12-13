@@ -1,4 +1,4 @@
-﻿namespace AdventOfCode._2023.Day09
+﻿namespace AdventOfCode._2023.Week2.Day09
 {
 	public static class SeriesParser
 	{

@@ -1,4 +1,4 @@
-﻿namespace AdventOfCode._2023.Day10
+﻿namespace AdventOfCode._2023.Week2.Day10
 {
 	public class InteriorCounter
 	{

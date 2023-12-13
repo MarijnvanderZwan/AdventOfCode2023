@@ -1,4 +1,4 @@
-﻿namespace AdventOfCode._2023.Day08
+﻿namespace AdventOfCode._2023.Week2.Day08
 {
 	public static class MapsParser
 	{
