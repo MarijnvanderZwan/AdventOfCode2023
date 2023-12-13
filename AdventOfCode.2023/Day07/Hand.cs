@@ -91,10 +91,5 @@
 				? 1
 				: GetNumber(c);
 		}
-
-		public override string ToString()
-		{
-			return $"{Type} {new string(Cards.ToArray())}";
-		}
 	}
 }

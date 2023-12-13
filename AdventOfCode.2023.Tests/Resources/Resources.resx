@@ -175,4 +175,16 @@
   <data name="Day11_Example" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Day11_Example.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
+  <data name="Day12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Day12.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Day12_Example" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Day12_Example.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Day13" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Day13.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Day13_Example" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Day13_Example.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
 </root>

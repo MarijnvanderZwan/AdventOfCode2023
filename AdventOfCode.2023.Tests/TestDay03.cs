@@ -125,7 +125,10 @@ namespace AdventOfCode._2023
 			Schematic schematic = SchematicParser.Parse(input);
 
 			List<int> result = schematic.GetGearRatios().ToList();
-
+			foreach (int i in result)
+			{
+				Console.WriteLine(i);
+			}
 			using (new AssertionScope())
 			{
 				result.Should().HaveCount(325);

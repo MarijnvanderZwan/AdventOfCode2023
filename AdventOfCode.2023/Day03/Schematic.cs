@@ -37,6 +37,7 @@
 		public IEnumerable<int> GetGearRatios()
 		{
 			List<NumberResult> allNumbers = GetAllNumbers().ToList();
+			var gears = GetAllGears();
 			foreach ((int x, int y) gear in GetAllGears())
 			{
 				List<int> adjacentNumbers = GetAdjacentNumbers(gear.x, gear.y, allNumbers).ToList();
